@@ -3,3 +3,5 @@ version: '0.0.1'
 main: org.hn.dialogLib.DialogLib
 api-version: '1.21'
 authors: [ HeyNight0712 ]
+folia-supported: true
+bootstrapper: org.hn.dialogLib.DialogLibBootstrap
